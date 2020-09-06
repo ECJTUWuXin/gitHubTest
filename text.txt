@@ -1,1 +1,2 @@
 the file is test git remote、fetch、pull function；
+my name is wind
